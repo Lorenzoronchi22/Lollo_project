@@ -1,14 +1,14 @@
 # Lollo_project
-Data Science and ML project
-Questa repository contiene tutti i miei progetti di Data Science e Machine Learning, organizzati per dataset.
 
-## Struttura
+Data Science & Machine Learning projects organized by dataset.
+
+## Structure
 
 - dataset1/
-  - notebooks/ : notebook per analisi e modelli
-  - data/ : dataset o link per scaricarlo
+  - notebooks/ : analysis and models
+  - data/ : dataset or link
 - dataset2/
   - notebooks/
   - data/
-- requirements.txt : librerie Python necessarie
-- README.md : descrizione di ciascun progetto
+- requirements.txt : Python libraries
+- README.md : project descriptions
